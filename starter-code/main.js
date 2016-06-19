@@ -1,1 +1,5 @@
-console.log("JS file is connected to HTML! Woo!")
+/*Declaring variables for the four cards*/
+var cardOne = "queen";
+var cardTwo = "queen";
+var cardThree = "king";
+var cardFour = "king";
